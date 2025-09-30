@@ -1,4 +1,4 @@
-#php-laravel-sandbox
+php-laravel-sandbox
 
 A sandbox repository for practicing PHP, Laravel, and general web development concepts.
 
